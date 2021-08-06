@@ -17,7 +17,7 @@ Bootstrap
 
 ## Description
 
-This webpage was created for the purpose of highlighing my programming activities and background information of my work history as well as my personal interests and goals.
+This webpage was created for the purpose of highlighing my programming activities and background information of my work history as well as my personal interests and goals.>
 
 ## Setup/Installation Requirements
 
