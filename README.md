@@ -1,6 +1,8 @@
 # _{Application Name}_
-
-#### _{Brief description of application}_
+Porfolio Landing Page
+#
+### _{Brief description of application}_
+Portfolio webpage which is a landing page for my programming portfolio
 
 #### By _**{List of contributors}**_
 Anthony McRae
@@ -11,14 +13,11 @@ GitHub
 HTML
 CSS 
 Bootstrap
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+This webpage was created for the purpose of highlighing my programming activities and background information of my work history as well as my personal interests and goals.
 
 ## Setup/Installation Requirements
 
@@ -31,8 +30,7 @@ Then open HTML on the web browser of choice
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+None known so far.
 
 ## License
 
@@ -48,4 +46,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Contact Information
 
-_{Add your contact information here.}_
+anthonytoddmcrae@gmail.com
