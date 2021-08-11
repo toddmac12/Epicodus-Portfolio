@@ -1,10 +1,31 @@
-.flashy {
-    color: rgb(172, 188, 207);
-    font-style: italic;
+#portPic {
+    width: auto;
+    height: auto;
+    min-width: 320px;
+    min-height: 240px;
+    min-height: 240px;
+    max-height: 1280px;
+    max-height: 960px;
+    min-height: 240px;
+    padding: 10px 12px 10px 12px;
+    border: 12px solid blue
 }
 
-.best {
-    border-color: fuchsia;
-    border-style: solid;
-    border-width: 10px;
+#portPic {
+    float: none;
+}
+
+p {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ol {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
 }
