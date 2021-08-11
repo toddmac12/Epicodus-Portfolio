@@ -5,7 +5,7 @@ Portfolio Landing Page
 Portfolio webpage which is a landing page for my programming portfolio
 
 ## Link to ghpages
-https://github.com/toddmac12/Epicodus-Portfolio.git
+https://github.com/toddmac12/Epicodus-Portfolio/edit/gh-pages
 
 ## Created By
 Anthony McRae
