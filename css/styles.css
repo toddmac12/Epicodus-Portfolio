@@ -1,5 +1,5 @@
-/* .flashy {
-    color: red;
+.flashy {
+    color: rgb(172, 188, 207);
     font-style: italic;
 }
 
@@ -7,4 +7,4 @@
     border-color: fuchsia;
     border-style: solid;
     border-width: 10px;
-} */
+}

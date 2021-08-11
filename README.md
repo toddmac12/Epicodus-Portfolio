@@ -1,10 +1,13 @@
-# _{Application Name}_
-Porfolio Landing Page
-#
-### _{Brief description of application}_
+## Application Name
+Portfolio Landing Page
+
+## Brief description of application
 Portfolio webpage which is a landing page for my programming portfolio
 
-#### By _**{List of contributors}**_
+## Link to ghpages
+https://github.com/toddmac12/Epicodus-Portfolio.git
+
+## Created By
 Anthony McRae
 
 ## Technologies Used
@@ -17,16 +20,17 @@ Bootstrap
 
 ## Description
 
-This webpage was created for the purpose of highlighing my programming activities and background information of my work history as well as my personal interests and goals.>
+This webpage was created for the purpose of highlighting my programming activities and background information of my work history as well as my personal interests and goals.>
 
 ## Setup/Installation Requirements
 
-Clone this repository.
-
-Open a simple HTTP server in the top level of the cloned directory. For a mac, run the following command in your terminal:
-
-Then open HTML on the web browser of choice
-
+1. Clone this repository.
+2. Navigate to the “<>Code” tab.
+3. Click on the “Code” button on the right. A dropdown should appear.
+4. In the “Clone” menu, under the “HTTPS” tab, click on “Download ZIP”
+5. The chosen repository will download as a ZIP file
+6. Unzip the Zip file by using a software utility program like Winzip and save the files to your local   computer or a cloud file system.
+7. Then open the HTML file "index.html" on the web browser of your choice.
 
 ## Known Bugs
 
